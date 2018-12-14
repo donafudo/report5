@@ -1,5 +1,7 @@
 import static org.junit.jupiter.api.Assertions.*;
 
+import jp.ac.uryukyu.ie.e185761.Enemy;
+import jp.ac.uryukyu.ie.e185761.Hero;
 import org.junit.jupiter.api.Test;
 
 class EnemyTest {
